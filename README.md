@@ -1,5 +1,13 @@
-### Hi there 👋
+# Nicolas K
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Never+Gonna+Give+You+Up;Never+Gonna+Let+You+Down;Never+Gonna+Run+Around+And+Desert+You;Never+Gonna+Make+You+Cry;Never+Gonna+Say+Goodbye;Never+Gonna+Tell+A+Lie+And+Hurt+You)](https://git.io/typing-svg)
+## Estudiante de la ET N.26 Confederacion Suiza
 
+#### Cantidad de visitantes a este perfil
+
+<img src="https://profile-counter.glitch.me/nicolas-k-cmd/count.svg">
+
+#### Estadisticas de GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=nicolas-k-cmd&count_private=true">
 <!--
 **nicolas-k-cmd/nicolas-k-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
